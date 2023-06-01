@@ -10,7 +10,7 @@ var textStyles = {
   textBaseline: "middle",
 };
 var textContents = [
-  ["Hi!", "I'm AqSu"],
+  ["Hi!", "I'm Surbhi"],
   ["I am", "a Software Engineer"],
 ];
 
